@@ -15,3 +15,28 @@ traduccion de el libro "Learn to test with Go"
 
 -   Explore el lenguaje de Go escribiendo pruebas.
 -   **Obtenga fundamentos para hacer TDD**.Go es un buen leguaje para aprender TDD por ser sencillo de aprender y hacer pruebas de forma nativa.
+
+
+
+
+<!---
+
+Seccion DOS
+--->
+### Contruir una aplicación
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
