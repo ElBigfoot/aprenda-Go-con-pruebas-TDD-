@@ -7,10 +7,10 @@ traduccion de el libro "Learn to test with Go"
 
 -   Versión original: [English](https://quii.gitbook.io/learn-go-with-tests/)
 
-<--! añadir el support me despues
+<!--- añadir el support me despues
 - Formatos : Gitbook PDF
 - Version orignal en Ingles
--->
+--->
 ## Aprender desarrollo basado en pruebas usando Go.
 
 -   Explore el lenguaje de Go escribiendo pruebas.
